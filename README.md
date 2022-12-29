@@ -1,2 +1,2 @@
 # wagtail-practice
-learn wagtail via tutorial on docs.wagtail.org
+learn wagtail using a tutorial on docs.wagtail.org
